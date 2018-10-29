@@ -1,6 +1,6 @@
-- name: Architecture
-  link: /achitecture/
-- name: API
-  link: /api/
-- name: Source
-  link: /source/
+- name: theta-R
+  link: /theta-r/
+- name: theta-EDGE
+  link: /theta-edge/
+- name: theta-PRIV
+  link: /theta-priv/
